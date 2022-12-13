@@ -1,2 +1,0 @@
-(this["webpackJsonpbitcoin-price-betting"]=this["webpackJsonpbitcoin-price-betting"]||[]).push([[25,24],{1977:function(i,n){},2023:function(i,n){},2024:function(i,n){}}]);
-//# sourceMappingURL=25.ad5a139f.chunk.js.map
